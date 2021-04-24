@@ -126,8 +126,5 @@ PlentySockMaxQSize = 126
 ##### Главное рабочее окно:
 ![MainWindow](https://i.ibb.co/J33mB3V/2021-04-24-16-16-12.png)
 
-##### Рабочий процесс:
-![Work](https://www.kapwing.com/videos/608424a2e904aa01222aebf0)
-
 ## Лицензия
 [MIT](https://choosealicense.com/licenses/mit/)
