@@ -60,6 +60,8 @@ PlentySockMaxQSize = 126
 ## Appearance
 ##### Main window:
 ![MainWindow](https://i.ibb.co/J33mB3V/2021-04-24-16-16-12.png)
+##### Working process:
+![Work](https://imagizer.imageshack.com/img923/4853/lf7i9S.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -125,6 +127,8 @@ PlentySockMaxQSize = 126
 ## Внешний вид
 ##### Главное рабочее окно:
 ![MainWindow](https://i.ibb.co/J33mB3V/2021-04-24-16-16-12.png)
+##### Рабочий процесс:
+![Work](https://imagizer.imageshack.com/img923/4853/lf7i9S.gif)
 
 ## Лицензия
 [MIT](https://choosealicense.com/licenses/mit/)
