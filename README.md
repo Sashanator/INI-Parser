@@ -61,7 +61,7 @@ PlentySockMaxQSize = 126
 ##### Main window:
 ![MainWindow](https://i.ibb.co/J33mB3V/2021-04-24-16-16-12.png)
 ##### Working process:
-![Work](https://imagizer.imageshack.com/img923/4853/lf7i9S.gif)
+![Sample](https://github.com/Sashanator/INI-Parser/blob/main/INI-Parser/Resources/sample1.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
